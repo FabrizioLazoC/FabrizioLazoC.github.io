@@ -1,7 +1,9 @@
 # Fabrizio Lazo — Portfolio
 
-Portfolio in web development, UX/UI design, and artificial intelligence.
+Web development, UX/UI design, and AI projects.
 
-Static HTML and CSS. Published with GitHub Pages from main / root.
+Live site: https://fabriziolazoc.github.io/
 
-The flat file layout keeps all links relative and supports browser uploads.
+Static HTML, CSS and JavaScript. GitHub Pages publishes main / root.
+
+Neon Riff documents a coursework prototype and its limitations. The OCR case includes a browser review-flow prototype using an archived sample; it does not run live inference.
